@@ -1,4 +1,4 @@
-package cn.soft1841.week3;
+package cn.soft1841.GoShopping;
 
 /**
  * @author  by 郭瑞昌
